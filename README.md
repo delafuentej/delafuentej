@@ -1,15 +1,10 @@
 
-<h1 align="left">Hi 👋, I'm Jesús de la Fuente</h1>
-
-<h3 align="right">Connect with me:</h3>
-<p align="right">
-<a href="https://linkedin.com/in/jesús de la fuente" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jesús de la fuente" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/jesús de la fuente" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="jesús de la fuente" height="30" width="40" /></a>
-<a href="https://discord.gg/jesusdelafuente6571" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="jesusdelafuente6571" height="30" width="40" /></a>
-</p>
+<h1 align="left">Hi 👋, I'm Jesús de la Fuente
+<a href="https://www.linkedin.com/in/jesus-de-la-fuente-b5325047/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jesús de la fuente" height="30" width="40" /></a>
+</h1>
 
 
-<h3 align="left">I am a passionate junior developer from Spain. I have been living for many years in Germany, and after my return to my country I am looking for opportunities to collaborate in projects with MEAN/MERN technologies stack. Willing to learn new technologies, love for continuous learning, self-taught.</h3><h3 align="left">Connect with me:</h3>
+<h3 align="left">I am a passionate junior developer from Spain. I have been living for many years in Germany, and after my return to my country I am looking for opportunities to collaborate in projects with MEAN/MERN technologies stack. Willing to learn new technologies, love for continuous learning, self-taught.</h3>
 <p align="left">
 
 <br />
