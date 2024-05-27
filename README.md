@@ -4,7 +4,7 @@
 </h1>
 
 
-<h3 align="left">I am a passionate junior developer from Spain. I have been living for many years in Germany, and after my return to my country I am looking for opportunities to collaborate in projects with MEAN/MERN technologies stack. Willing to learn new technologies, love for continuous learning, self-taught.</h3>
+<h3 align="left">I am a passionate junior developer from Spain. I have been living for many years in Germany, and after my return to my country I am looking for opportunities to collaborate in projects with MEAN/MERN technologies stack. Willing to learn new technologies, love for continuous learning, self-taught. Willing to work remotely at an international level</h3>
 <p align="left">
 
 <br />
