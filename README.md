@@ -1,7 +1,15 @@
 
 <img src="./passion_about_technology.png" alt="tech_passion" width="1000px" height="200px">
 <h1 align="left">Hi 👋, I'm Jesús de la Fuente
-<a href="https://www.linkedin.com/in/jesus-de-la-fuente-b5325047/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jesús de la fuente" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/jesus-de-la-fuente-b5325047/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jesús de la fuente" height="30" width="40" /></a>
+<a href="https://join.slack.com/t/nuevoespaciod-se96009/shared_invite/zt-2jrmt8ayb-ETcUnMglHXtY7iQrQ492kQ" target="_blank">
+  <img src="https://img.shields.io/badge/delafuente-dev-%237289DA?style=for-the-badge&logo=slack&logoColor=white" alt="Slack">
+</a>
+<a href="https://discord.com/users/delafuente_dev" target="_blank">
+  <img src="https://img.shields.io/badge/delafuente_dev%231234-%237289DA?style=for-the-badge&logo=discord&logoColor=black" alt="Discord">
+  
+</a>
+
 </h1>
 <div align="left" style={display: "flex"}>
    <img src="https://komarev.com/ghpvc/?username=delafuentej&label=Profile%20views&color=0e75b6&style=flat" alt="delafuentej" /> 
