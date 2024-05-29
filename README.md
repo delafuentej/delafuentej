@@ -1,4 +1,5 @@
 
+<img src="./passion_about_technology.png" alt="tech_passion" width="1200px" height="300px">
 <h1 align="left">Hi 👋, I'm Jesús de la Fuente
 <a href="https://www.linkedin.com/in/jesus-de-la-fuente-b5325047/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jesús de la fuente" height="30" width="40" /></a>
 </h1>
