@@ -3,10 +3,11 @@
 <h1 align="left">Hi 👋, I'm Jesús de la Fuente
 <a href="https://www.linkedin.com/in/jesus-de-la-fuente-b5325047/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jesús de la fuente" height="30" width="40" /></a>
 </h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=delafuentej&label=Profile%20views&color=0e75b6&style=flat" alt="delafuentej" /> </p>
-
+<div align="left" style={display: "flex"}>
+   <img src="https://komarev.com/ghpvc/?username=delafuentej&label=Profile%20views&color=0e75b6&style=flat" alt="delafuentej" /> 
+  <img src="https://img.shields.io/github/stars/delafuentej?style=social" alt="delafuentej"/> 
+</div>
 <h3 align="left">I am a passionate junior developer from Spain. I have been living for many years in Germany, and after my return to my country I am looking for opportunities to collaborate in projects with MEAN/MERN technologies stack. Willing to learn new technologies, love for continuous learning, self-taught. Willing to collaborate on projects remotely on an international level.</h3>
-<p align="left">
 
 <br />
 <h3 align="left">Languages and Tools:</h3>
@@ -37,9 +38,19 @@
 </p>
 
 
+<h3 align="left">Activity:</h3>
+<p align="center">
+ <img  src="https://github-readme-streak-stats.herokuapp.com?user=delafuentej&theme=tokyonight_duo&hide_border=true"
+</p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=delafuentej" alt="delafuentej" /></a> </p>
+<p align="center">
+  <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=delafuentej&show_icons=true&locale=en&layout=compact" alt="delafuentej" />
+  <img  src="https://github-readme-stats.vercel.app/api?username=delafuentej&show_icons=true&locale=en" alt="delafuentej" />
+</p>
 
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=delafuentej&show_icons=true&locale=en&layout=compact" alt="delafuentej" /></p>
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=delafuentej&show_icons=true&locale=en" alt="delafuentej" /></p>
+<h3 align="left">Trophies:</h3>
+<p align="left"> 
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=delafuentej" alt="delafuentej" />
+  </a> 
+</p>
