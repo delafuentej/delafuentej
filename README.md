@@ -3,10 +3,11 @@
 <h1 align="left"> 
 
        
-<p align="center"> <img src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.gif" alt="GitHub Octocat Logo" height="35"> Hi 👋, I'm Jesús de la Fuente  <a href="https://www.linkedin.com/in/jesus-de-la-fuente-b5325047/" target="_blank">
+<p align="center"> <img src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.gif" alt="GitHub Octocat Logo" height="35"> Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Jesús de la Fuente  <a href="https://www.linkedin.com/in/jesus-de-la-fuente-b5325047/" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jesús de la fuente" height="30" width="40" />
   </a></p>
 <p align="center">
+       
  <a href="https://join.slack.com/t/nuevoespaciod-se96009/shared_invite/zt-2jrmt8ayb-ETcUnMglHXtY7iQrQ492kQ" target="_blank">
     <img src="https://img.shields.io/badge/delafuente-dev-%237289DA?style=for-the-badge&logo=slack&logoColor=white" alt="Slack">
   </a>
@@ -14,22 +15,26 @@
   <a href="https://discord.com/users/delafuente_dev" target="_blank">
     <img src="https://img.shields.io/badge/delafuente_dev%231234-%237289DA?style=for-the-badge&logo=discord&logoColor=black" alt="Discord">
   </a>
+
+
   
 </p>
 
   
 </h1>
 
- 
+
   
 <div align="left" style={display: "flex"}>
-   <img src="https://komarev.com/ghpvc/?username=delafuentej&label=Profile%20views&color=0e75b6&style=flat" alt="delafuentej" /> 
-  <img src="https://img.shields.io/github/stars/delafuentej?style=social" alt="delafuentej"/> 
+          <img src="https://komarev.com/ghpvc/?username=delafuentej&label=Profile%20views&color=0e75b6&style=flat" alt="delafuentej" /> 
+              <img src="https://img.shields.io/github/stars/delafuentej?style=social" alt="delafuentej"/> 
+               <img src="https://img.shields.io/github/followers/delafuentej?style=social" />     
 </div>
+
 <h3 align="left">I am a passionate junior developer from Spain. I have been living for many years in Germany, and after my return to my country I am looking for opportunities to collaborate in projects with MEAN/MERN technologies stack. Willing to learn new technologies, love for continuous learning, self-taught. Willing to collaborate on projects remotely on an international level.</h3>
 
-<br />
-<h3 align="left">Languages and Tools:</h3>
+# <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> <b>Languages and Tools:</b>
+
 <p align="left"> 
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="60" height="60"/> </a>
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="60" height="60"/></a> 
@@ -57,7 +62,7 @@
 </p>
 
 
-<h3 align="left">Contribution Activity:</h3>
+# <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> <b>Github Stats</b>
 
 <p align="center">
  <img  src="https://github-readme-streak-stats.herokuapp.com?user=delafuentej&theme=tokyonight_duo&hide_border=true"
@@ -69,7 +74,9 @@
 </p>
 
 
-<h3 align="left">Trophies:</h3>
+
+
+#  <b>Trophies: </b>
 <p align="left"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=delafuentej" alt="delafuentej" />
@@ -77,9 +84,9 @@
 </p>
 
 
+# <h3 align="center"><img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=60&center=true&vCenter=true&width=1000&height=70&duration=4000&lines=Thanks+for+visiting!;+Feel+free+to+contact+me!;I+am+always+ready+to+collaborate!"></h3>
 
-
-<h3 align="left">Location:</h3>
+#  <b>Location: </b>
 
 
 ```geojson
@@ -109,3 +116,5 @@
   ]
 }
 ```
+
+
