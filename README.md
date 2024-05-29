@@ -54,3 +54,33 @@
     <img src="https://github-profile-trophy.vercel.app/?username=delafuentej" alt="delafuentej" />
   </a> 
 </p>
+<h3 align="left">Location:</h3>
+
+
+```geojson
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 1,
+      "properties": {
+        "ID": 0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+                [-4.165, 40.976],  
+                [-4.029, 40.976],  
+                [-4.029, 40.857],  
+                [-4.165, 40.857], 
+                [-4.165, 40.976]   
+           
+          ]
+        ]
+      }
+    }
+  ]
+}
+```
