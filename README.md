@@ -84,7 +84,7 @@
 </p>
 
 
-# <h3 align="center"><img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=60&center=true&vCenter=true&width=1000&height=70&duration=4000&lines=Thanks+for+visiting!;+Feel+free+to+contact+me!;I+am+always+ready+to+collaborate!"></h3>
+# <h3 align="center"><img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=60&center=true&vCenter=true&width=1000&height=70&duration=4000&lines=Thanks+for+visiting!;+Feel+free+to+contact+me!;I+am+always+ready+to+collaborate!"><img alt="dev_cat" src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/gifs/others/dev_cat.gif" height="75" width="100"> </h3>
 
 #  <b>Location: </b>
 
