@@ -3,7 +3,7 @@
 <h1 align="left"> 
 
       
-<p align="center"><a href="https://github.com/delafuentej" target="_blank"> <img src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.gif" alt="GitHub Octocat Logo" height="35"> </a>Hi everyone! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> I'm Jesús de la Fuente! <a href="https://www.linkedin.com/in/jesus-de-la-fuente-b5325047/" target="_blank">
+<p align="center"><a href="https://github.com/delafuentej" target="_blank"> <img src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.gif" alt="GitHub Octocat Logo" height="35"> </a>Hi everyone! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> </p> <p align="center">I'm Jesús de la Fuente! <a href="https://www.linkedin.com/in/jesus-de-la-fuente-b5325047/" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jesús de la fuente" height="30" width="40" />
        
   </a></p>
