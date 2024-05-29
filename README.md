@@ -88,38 +88,5 @@
 
 # <h4 align="center"><img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=60&center=true&vCenter=true&width=1000&height=70&duration=4000&lines=Thanks+for+visiting!;+Feel+free+to+contact+me!;I+am+always+ready+to+collaborate!"> </h4>
 
-#
-
-
-#  <b>Location: </b>
-
-
-```geojson
-{
-  "type": "FeatureCollection",
-  "features": [
-    {
-      "type": "Feature",
-      "id": 1,
-      "properties": {
-        "ID": 0
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-                [-4.165, 40.976],  
-                [-4.029, 40.976],  
-                [-4.029, 40.857],  
-                [-4.165, 40.857], 
-                [-4.165, 40.976]   
-           
-          ]
-        ]
-      }
-    }
-  ]
-}
-```
 
 
