@@ -2,7 +2,7 @@
 <h1 align="left">Hi 👋, I'm Jesús de la Fuente
 <a href="https://www.linkedin.com/in/jesus-de-la-fuente-b5325047/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jesús de la fuente" height="30" width="40" /></a>
 </h1>
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=delafuentej&label=Profile%20views&color=0e75b6&style=flat" alt="delafuentej" /> </p>
 
 <h3 align="left">I am a passionate junior developer from Spain. I have been living for many years in Germany, and after my return to my country I am looking for opportunities to collaborate in projects with MEAN/MERN technologies stack. Willing to learn new technologies, love for continuous learning, self-taught. Willing to collaborate on projects remotely on an international level.</h3>
 <p align="left">
@@ -35,7 +35,7 @@
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="60" height="60"/> </a>
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=delafuentej&label=Profile%20views&color=0e75b6&style=flat" alt="delafuentej" /> </p>
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=delafuentej" alt="delafuentej" /></a> </p>
 
