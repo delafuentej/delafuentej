@@ -5,9 +5,11 @@
        
 <p align="center"> <img src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.gif" alt="GitHub Octocat Logo" height="35"> Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Jesús de la Fuente  <a href="https://www.linkedin.com/in/jesus-de-la-fuente-b5325047/" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jesús de la fuente" height="30" width="40" />
-  </a></p>
-<p align="center">
        
+  </a></p>
+  
+<p align="center">
+       <img  src = "https://user-images.githubusercontent.com/63050133/156777293-72a6e681-2582-4a9d-ad92-09d1181d47c7.gif" width = 40px height=40px>
  <a href="https://join.slack.com/t/nuevoespaciod-se96009/shared_invite/zt-2jrmt8ayb-ETcUnMglHXtY7iQrQ492kQ" target="_blank">
     <img src="https://img.shields.io/badge/delafuente-dev-%237289DA?style=for-the-badge&logo=slack&logoColor=white" alt="Slack">
   </a>
@@ -84,7 +86,10 @@
 </p>
 
 
-# <h3 align="center"><img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=60&center=true&vCenter=true&width=1000&height=70&duration=4000&lines=Thanks+for+visiting!;+Feel+free+to+contact+me!;I+am+always+ready+to+collaborate!"><img alt="dev_cat" src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/gifs/others/dev_cat.gif" height="75" width="100"> </h3>
+# <h4 align="center"><img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=60&center=true&vCenter=true&width=1000&height=70&duration=4000&lines=Thanks+for+visiting!;+Feel+free+to+contact+me!;I+am+always+ready+to+collaborate!"> </h4>
+
+#
+
 
 #  <b>Location: </b>
 
