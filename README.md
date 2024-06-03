@@ -86,7 +86,7 @@
 </p>
 
 
-# <h4 align="center"><img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=60&center=true&vCenter=true&width=1000&height=70&duration=4000&lines=Thanks+for+visiting!;+Feel+free+to+contact+me!;I+am+always+ready+to+collaborate!"> </h4>
+# <h4 align="center"><img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=60&center=true&vCenter=true&width=1000&height=70&duration=4000&lines=Thanks+for+visiting!;+Feel+free+to+contact+me!;I+am+always+ready+to+collaborate!"></h4>
 
-
+<p align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" width="100" height="100"/></p>
 
