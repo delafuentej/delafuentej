@@ -10,7 +10,7 @@
   
 <p align="center">
        <img  src = "https://user-images.githubusercontent.com/63050133/156777293-72a6e681-2582-4a9d-ad92-09d1181d47c7.gif" width = 40px height=40px>
- <a href="https://join.slack.com/t/nuevoespaciod-se96009/shared_invite/zt-2jrmt8ayb-ETcUnMglHXtY7iQrQ492kQ" target="_blank">
+ <a href="https://join.slack.com/t/delafuente-dev/shared_invite/zt-2otlrj6df-lxzvRzFg3JztKVsBo~QWBQ" target="_blank">
     <img src="https://img.shields.io/badge/delafuente-dev-%237289DA?style=for-the-badge&logo=slack&logoColor=white" alt="Slack">
   </a>
 
