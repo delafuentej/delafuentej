@@ -66,9 +66,7 @@
 
 # <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> <b>Github Stats:</b>
 
-<p align="center">
- <img  src="https://github-readme-streak-stats.herokuapp.com?user=delafuentej&theme=tokyonight_duo&hide_border=true"
-</p>
+
 
 <p align="center">
   <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=delafuentej&show_icons=true&locale=en&layout=compact" alt="delafuentej" />
