@@ -1,5 +1,5 @@
 
-<img src="./passion_about_technology.png" alt="tech_passion" width="1000px" height="200px">
+<img src="./banner_in.jpg" alt="tech_passion" width="1000px" height="200px">
 <h1 align="left"> 
 
       
