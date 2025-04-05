@@ -33,7 +33,7 @@
                <img src="https://img.shields.io/github/followers/delafuentej?style=social" />     
 </div>
 
-<h3 align="left">I am a passionate junior developer from Spain. I am looking for opportunities to collaborate in projects with MEAN/MERN technologies stack. Experience with international teams. Multicultural competence. Willing to learn new technologies, love for continuous learning, self-taught. Willing to collaborate on projects remotely on an international level.</h3>
+<h3 align="left">I am a passionate developer, looking for opportunities to collaborate in projects. Experience with international teams. Multicultural competence. Willing to learn new technologies, love for continuous learning, self-taught. Willing to collaborate on projects remotely on an international level.</h3>
 
 # <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> <b>Languages and Tools:</b>
 
