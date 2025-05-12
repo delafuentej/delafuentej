@@ -26,7 +26,17 @@
                <img src="https://img.shields.io/github/followers/delafuentej?style=social" />     
 </div>
 
-<h3 align="left">I am a passionate developer, looking for opportunities to collaborate. Experience with international teams. Multicultural competence. Willing to learn new technologies, love for continuous learning, self-taught. Willing to collaborate on projects remotely on an international level.</h3>
+<h3 align="left">I am a Frontend-Focused Full-Stack Dev, with a strong focus on React, React Native, and interactive 3D-Development using Three.js/R3R. Looking for opportunities to collaborate. Experience with international teams. Multicultural competence. Willing to learn new technologies, love for continuous learning, self-taught. Willing to collaborate on projects remotely on an international level.</h3>
+
+<ul>
+  <li>Hands-on experience building dynamic, efficient, and scalable web and mobile applications, including immersive 3D experiences for the browser. Skilled in both front-end and back-end technologies.</li>
+  <li>Passionate about software development and committed to continuous self-learning.</li>
+   <li>Constantly seeking opportunities to improve my skills and contribute to innovative, high-impact projects.</li>
+    <li>Currently exploring advanced 3D rendering and real-time interaction through Three.js and WebGL.
+</li>
+
+
+</ul>
 
 # <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> <b>Languages and Tools:</b>
 
