@@ -1,4 +1,4 @@
-<img src="./banner_in_gh.jpg" alt="tech_passion" width="1000px" height="200px">
+<img src="./banner_in_gh.jpg" alt="banner" width="1000px" height="200px">
 <h1 align="left">
 
 <p align="center"><a href="https://github.com/delafuentej" target="_blank"> <img src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.gif" alt="GitHub Octocat Logo" height="35"> </a>Hi everyone! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> </p> <p align="center">I'm Jesús de la Fuente! <a href="https://www.linkedin.com/in/jesus-de-la-fuente-b5325047/" target="_blank">
